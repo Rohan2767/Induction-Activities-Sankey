@@ -1,0 +1,34 @@
+
+.navbar{
+ position: fixed; 
+  top: 0;           
+  left: 0;         
+  width: 100px;
+  height: 100vh;
+  background-color: beige; 
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding : 10px;   
+  margin-left: 2px;
+  
+}
+.navbar ul {
+    list-style: none;
+    padding: 0%;
+  }
+  
+  .navbar li {
+    padding: 10px;
+
+ 
+  }
+  
+  
+  /* .active-link {
+  background: #000;
+  } */
+  .active-link:hover{
+    background: black;
+  }
+  

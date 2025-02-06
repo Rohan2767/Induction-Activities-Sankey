@@ -1,0 +1,23 @@
+#homebutton{
+    margin-top: 10px;
+    margin-left: 300px;
+ 
+    padding: 10px 20px;
+    background-color: white;
+    color: green;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    transition-duration: 0.4s;
+}
+#homebutton:hover{
+    background-color: #45a049;
+    color: white;
+}
+/* .Home{
+    background-color: rgb(224, 245, 245);
+} */
